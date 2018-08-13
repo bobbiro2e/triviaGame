@@ -1,0 +1,33 @@
+body{
+    background-image: url(ocean.jpg)
+}
+.fluid-jumbotron{
+    background-color: #21343D;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    color:#C5C1A1;
+    height:auto;
+}
+#directions {
+    font-family: 'Bungee', cursive;
+}
+.timer{
+    font-family: 'Monoton', cursive;
+    font-size: 35px;
+}
+.buttons{
+    background-color:#C5C1A1;
+    color: #21343D;
+    font-family: 'Ewert', cursive;
+
+}
+.wrapper{
+    display: none;
+
+}
+#game{
+    background-color: #21343D;
+    color:#C5C1A1;
+    font-family: 'BioRhyme', serif;
+}
+
